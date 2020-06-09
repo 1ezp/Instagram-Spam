@@ -128,10 +128,10 @@ class appp:
 
 def main():
     
-    username = input("username :>> \u001b[34m")
-    password = input("\u001b[0mPassword :>> \u001b[31m")
-    target = input("\u001b[0mTarget :>> \u001b[31m")
-    sleep = int(input("\u001b[0msleep :>> \u001b[31m"))
+    username = input("username :>> ")
+    password = input("Password :>> ")
+    target = input("Target :>> ")
+    sleep = int(input("sleep :>> "))
     app = appp(username=username,password=password,target=target,sleep=sleep)
     app.loginn()
     app.id_graber()

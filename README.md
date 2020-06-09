@@ -10,4 +10,4 @@ pip install requests
 python spam.py
 
 # coder by:
-instagram:@h.cz_
+instagram: https://instagram.com/h.cz_

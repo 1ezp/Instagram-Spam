@@ -114,7 +114,9 @@ class appp:
             if sp_req.status_code == 200:
                 done +=1
                 print(f"spam >>{done}")
-                print(sp_req.json())
+            elif sp_req.status_code == 400:
+                false += 1
+                print(f"false spam >>{false}")
             else:
                 print(sp_req.reason)
 

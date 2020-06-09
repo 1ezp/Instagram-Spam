@@ -1,4 +1,5 @@
-# instagram-spam-bot
+# instagram spam bot
+# coder by:
 instagram:@h.cz_
 
 git clone https://github.com/hekmt/instagram-spam-bot.git

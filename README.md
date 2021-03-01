@@ -1,4 +1,4 @@
-# instagram spam bot
+# [Script] Instagram spam bot
 
 
 git clone https://github.com/hekmt/instagram-spam-bot.git
